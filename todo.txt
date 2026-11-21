@@ -1,0 +1,6 @@
+offset
+add file support
+add help info
+add other arcs
+grid dialog 
+layer dialog
